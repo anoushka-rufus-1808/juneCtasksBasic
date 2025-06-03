@@ -37,9 +37,9 @@ int main()
 #include<stdio.h>
 int main(){
     int a, b;
-    printf("enter first number: ", a);
+    printf("enter first number: ");
     scanf("%d", &a);
-    printf("\nenter second number: ", b);
+    printf("\n enter second number: ");
     scanf("%d", &b);
     printf("%d && %d is %d \n", a, b, a && b);  // logical AND which is && returns true (1) if both values are non zero
     printf("%d || %d is %d \n", a, b, a||b);    // logical OR which is || returns true (1) if either of the values is non zero
