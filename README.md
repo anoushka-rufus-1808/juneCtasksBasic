@@ -1,88 +1,40 @@
-# Daily C Programming Tasks  
-**Date:** 2nd June 2025  
+# C Programming Daily – June 2025
 
-This repository contains solutions to nine basic C programming problems, focusing on fundamental concepts like variables, arithmetic operations, data types, and input/output.
+# ✅ June 2 – Fundamentals
+- Declare and Print Integer Variable  
+  Write a C program to declare an integer variable, assign a value to it, and print the value.
+- Add Two Float Numbers  
+  Write a C program to add two float numbers and print the result.
+- Find Size of Data Types  
+  Write a C program to display the size (in bytes) of int, float, double, and char data types.
+- Swap Two Variables Using a Temporary Variable  
+  Write a C program to swap the values of two variables using a temporary variable.
+- Swap Two Variables Without Using a Temporary Variable  
+  Write a C program to swap two integer variables without using a temporary variable.
+- Display ASCII Value of a Character  
+  Write a C program to display the ASCII value of a character.
+- Calculate Simple Interest  
+  Write a C program to calculate simple interest using the formula:  
+  SI = (P × R × T) / 100
+- Multiply Two Integers  
+  Write a C program to multiply two integers and display the result.
+- Find the Average of Three Numbers  
+  Write a C program to calculate the average of three float numbers.
 
----
-
-## Task 1: Declare and Print Integer Variable  
-**Question:**  
-Write a C program to declare an integer variable, assign a value to it, and print the value.  
-
-**Description:**  
-Demonstrates declaring an `int` variable, assigning a literal value, and printing it using `printf`.  
-
----
-
-## Task 2: Add Two Float Numbers  
-**Question:**  
-Write a C program to add two float numbers and print the result.  
-
-**Description:**  
-Reads two float inputs, adds them, and displays the sum formatted with decimal precision.  
-
----
-
-## Task 3: Find Size of Data Types  
-**Question:**  
-Write a C program to display the size (in bytes) of `int`, `float`, `double`, and `char` data types.  
-
-**Description:**  
-Uses the `sizeof` operator to print memory size of common C data types on the system.  
-
----
-
-## Task 4: Swap Two Variables Using a Temporary Variable  
-**Question:**  
-Write a C program to swap the values of two variables using a temporary variable.  
-
-**Description:**  
-Illustrates swapping two integer variables by storing one value temporarily during the exchange.  
-
----
-
-## Task 5: Swap Two Variables Without Using a Temporary Variable  
-**Question:**  
-Write a C program to swap two integer variables without using a temporary variable.  
-
-**Description:**  
-Swaps values by using arithmetic operations (`+` and `-`) or bitwise XOR without extra storage.  
-
----
-
-## Task 6: Display ASCII Value of a Character  
-**Question:**  
-Write a C program to display the ASCII value of a character.  
-
-**Description:**  
-Reads a character input and prints its ASCII integer value.  
-
----
-
-## Task 7: Calculate Simple Interest  
-**Question:**  
-Write a C program to calculate simple interest using the formula:  
-`SI = (P × R × T) / 100`, where P is principal, R is rate, and T is time.  
-
-**Description:**  
-Takes principal, rate, and time from user input, calculates the simple interest, and displays the result with two decimal places.  
-
----
-
-## Task 8: Multiply Two Integers  
-**Question:**  
-Write a C program to multiply two integers and display the result.  
-
-**Description:**  
-Reads two integer values from user input, multiplies them, and prints the product.  
-
----
-
-## Task 9: Find the Average of Three Numbers  
-**Question:**  
-Write a C program to calculate the average of three float numbers.  
-
-**Description:**  
-Reads three floating-point numbers, computes their average, and outputs it formatted to two decimal places.  
-
----
+# ✅ June 3 – Operators
+- Demonstrate Arithmetic Operators  
+  Write a C program to demonstrate arithmetic operators (+, -, *, /, %).
+- Demonstrate Relational Operators  
+  Write a C program to demonstrate relational operators (>, <, ==, !=, >=, <=).
+- Demonstrate Logical Operators  
+  Write a C program to demonstrate logical operators (&&, ||, !).
+- Demonstrate Bitwise Operators  
+  Write a C program to demonstrate bitwise operators (&, |, ^, ~, <<, >>).
+- Demonstrate Compound Assignment Operators  
+  Write a C program to demonstrate compound assignment operators (+=, -=, *=, /=, %=).
+- Demonstrate Increment and Decrement Operators  
+  Write a C program to demonstrate increment and decrement operators (++ and --).
+- Find Maximum Using Ternary Operator  
+  Write a C program to find the maximum of two numbers using the ternary operator.
+- Display Size of Data Types  
+  Write a C program to display the size of various data types using the sizeof operator.
