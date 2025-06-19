@@ -1,0 +1,21 @@
+Select an option:
+1. Swap two numbers
+2. Generate Fibonacci series
+Enter your choice (1 or 2): 1
+
+Enter two numbers to swap:
+67
+45
+Before swapping: a = 67, b = 45
+After swapping:  a = 45, b = 67
+
+
+Select an option:
+1. Swap two numbers
+2. Generate Fibonacci series
+Enter your choice (1 or 2): 2
+
+Enter the number of terms for Fibonacci series:
+5
+Fibonacci series (5 terms):
+0 1 1 2 3

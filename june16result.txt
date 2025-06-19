@@ -1,0 +1,18 @@
+---- Part 1: Variable values and addresses ----
+a = 10 is stored at location 00000000005ffe78
+b = 2.50 is stored at location 00000000005ffe74
+c = 12.36 is stored at location 00000000005ffe70
+d = 123443.66 is stored at location 00000000005ffe68
+ch = A is stored at location 00000000005ffe67
+
+---- Part 2: Expression values ----
+x = 40, y = 40
+
+---- Part 3: Pointer and address demonstrations ----
+m = 10 is stored at 00000000005ffe5c
+*&m = 10 is stored at 00000000005ffe5c
+*ptr = 10 is stored at 00000000005ffe5c
+n = 10 is stored at 00000000005ffe58
+ptr (address of m) = 00000000005ffe5c is stored at 00000000005ffe50       
+
+Now m = 25 after *ptr = 25

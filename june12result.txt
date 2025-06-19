@@ -1,0 +1,15 @@
+Enter your section (single character):
+a
+s
+Your section is: s
+
+Enter a string for string operations:
+date
+1. Length of the string "date" is: 4
+2. Reversed string: etad
+3. Copied string into str2: date
+Enter another string to concatenate with "date":
+time
+4. Concatenated string: datetime
+5. Comparing copied string "date" with concatenated string "datetime":    
+   Strings are not equal.

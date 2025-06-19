@@ -1,0 +1,55 @@
+--- 1. What is a pointer in C? ---
+Value of a: 10
+Address of a: 00000000005ffe54
+Value stored at pointer p: 10
+
+--- 2. Swap two numbers using pointers ---
+Before swap: a = 5, b = 10
+After swap: a = 10, b = 5
+
+--- 3. Dynamic array using malloc() ---
+Enter number of elements: 4
+Enter 4 elements:
+3
+8
+6
+9
+You entered: 3 8 6 9 
+
+--- 4. Pointer Output Demo ---
+Output of *p where a = 10: 10
+
+--- 5. Pointer to a pointer ---
+Value of a: 20
+Value via *p: 20
+Value via **pp: 20
+
+--- 6. Reverse array using pointers ---
+Reversed array: 5 4 3 2 1
+
+--- 7. Pass pointer to a function ---
+Before: 15
+After: 30
+
+--- 8. Print string using pointer arithmetic ---
+Enter a string: anoushka
+a
+n
+o
+u
+s
+h
+k
+a
+
+
+
+--- 9. String length using pointer ---
+Enter a string: anoushka
+Length of string: 8
+
+--- 10. Array of pointers to strings ---
+Name 1: Alice
+Name 2: Bob
+Name 3: Charlie
+Name 4: Daisy

@@ -1,0 +1,9 @@
+Enter the number of elements:
+3
+Enter the elements (sorted in ascending order):
+4
+7
+9
+Enter the key element to be searched:
+9
+Successful search: Element found at index 2

@@ -1,0 +1,18 @@
+Enter number of rows and columns (max 3x3):
+2
+3
+Enter array elements:
+4
+7
+5
+3
+7
+9
+User-entered array elements:
+4 7 5
+3 7 9
+
+Pre-initialized array elements with indices:
+arr[0][0]: 0    arr[0][1]: 1
+arr[1][0]: 2    arr[1][1]: 3
+arr[2][0]: 4    arr[2][1]: 5

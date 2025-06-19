@@ -1,0 +1,10 @@
+1. Fahrenheit to Celsius: 37°C
+2. Integer Division as Float: 3.50
+3. Implicit Casting Sum: 15.50, Explicit Casting Sum: 15.50
+4. ASCII of 'A' is: 65
+5. Reported Salary: ₹45678
+6. Average Marks: 90.00
+7. Double to Int: 123 (Precision lost from 123.987654)
+8. Packaged Weight: 23 kg (rounded down)
+9. Total Price: ₹50.76
+10. Integer Division: 2, Float Division: 2.50

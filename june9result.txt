@@ -1,0 +1,15 @@
+Enter number of array elements (max 10):
+5
+Enter array elements:
+5
+7
+4
+6
+1
+
+Array elements are:
+5 7 4 6 1
+Sum of array elements: 23
+Biggest element in array: 7
+Fibonacci series (first 5 terms):
+0 1 1 2 3

@@ -1,0 +1,6 @@
+1. Sum of 5 and 7 is: 12
+2. Greeting:
+Hello, Anoushka! Welcome!
+3. Returned number is: 10
+4. Saying goodbye:
+Goodbye! See you again.
