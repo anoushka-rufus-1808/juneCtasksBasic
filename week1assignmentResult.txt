@@ -1,0 +1,31 @@
+----- 1. Name, Roll No, Branch -----
+Name: Anoushka Rufus
+Roll Number: 23CSE1808
+Branch: Computer Science and Engineering        
+
+----- 2. Sum of Two Numbers -----
+Enter two numbers: 4
+7
+Sum = 11
+
+----- 3. Positive, Negative or Zero -----       
+Enter a number: 4
+The number is positive.
+
+----- 4. Greatest of Two Numbers -----
+Enter two numbers: 4
+9
+9 is greater.
+
+----- 5. Day of the Week -----
+Enter day number (1-7): 6
+Saturday
+
+----- 6. Voting Eligibility -----
+Enter your age: 21
+You are eligible to vote.
+
+----- 7. Difference between '=' and '==' -----  
+'=' is an assignment operator: a = 5 assigns 5 to a
+'==' is a comparison operator: (a == 5) checks if a is equal to 5
+x == 5 is true (comparison using ==)
