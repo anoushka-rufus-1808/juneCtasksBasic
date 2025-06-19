@@ -1,40 +1,73 @@
-# C Programming Daily – June 2025
+📁 Basics and Operators
+➤ Fundamentals
+Declare and print an integer variable
 
-# ✅ June 2 – Fundamentals
-- Declare and Print Integer Variable  
-  Write a C program to declare an integer variable, assign a value to it, and print the value.
-- Add Two Float Numbers  
-  Write a C program to add two float numbers and print the result.
-- Find Size of Data Types  
-  Write a C program to display the size (in bytes) of int, float, double, and char data types.
-- Swap Two Variables Using a Temporary Variable  
-  Write a C program to swap the values of two variables using a temporary variable.
-- Swap Two Variables Without Using a Temporary Variable  
-  Write a C program to swap two integer variables without using a temporary variable.
-- Display ASCII Value of a Character  
-  Write a C program to display the ASCII value of a character.
-- Calculate Simple Interest  
-  Write a C program to calculate simple interest using the formula:  
-  SI = (P × R × T) / 100
-- Multiply Two Integers  
-  Write a C program to multiply two integers and display the result.
-- Find the Average of Three Numbers  
-  Write a C program to calculate the average of three float numbers.
+Add two float numbers and print the result
 
-# ✅ June 3 – Operators
-- Demonstrate Arithmetic Operators  
-  Write a C program to demonstrate arithmetic operators (+, -, *, /, %).
-- Demonstrate Relational Operators  
-  Write a C program to demonstrate relational operators (>, <, ==, !=, >=, <=).
-- Demonstrate Logical Operators  
-  Write a C program to demonstrate logical operators (&&, ||, !).
-- Demonstrate Bitwise Operators  
-  Write a C program to demonstrate bitwise operators (&, |, ^, ~, <<, >>).
-- Demonstrate Compound Assignment Operators  
-  Write a C program to demonstrate compound assignment operators (+=, -=, *=, /=, %=).
-- Demonstrate Increment and Decrement Operators  
-  Write a C program to demonstrate increment and decrement operators (++ and --).
-- Find Maximum Using Ternary Operator  
-  Write a C program to find the maximum of two numbers using the ternary operator.
-- Display Size of Data Types  
-  Write a C program to display the size of various data types using the sizeof operator.
+Find size of data types (int, float, double, char)
+
+Swap two variables using a temporary variable
+
+Swap two variables without using a temporary variable
+
+Display ASCII value of a character
+
+Calculate simple interest using SI = (P × R × T) / 100
+
+Multiply two integers and display result
+
+Find the average of three float numbers
+
+➤ Operators
+Demonstrate arithmetic operators: +, -, *, /, %
+
+Demonstrate relational operators: >, <, ==, !=, >=, <=
+
+Demonstrate logical operators: &&, ||, !
+
+Demonstrate bitwise operators: &, |, ^, ~, <<, >>
+
+Demonstrate compound assignment: +=, -=, *=, /=, %=
+
+Demonstrate increment/decrement: ++, --
+
+Find maximum of two numbers using ternary operator
+
+Display size of data types using sizeof
+
+📁 Pointers and Functions
+➤ Pointer Basics and Use Cases
+What is a pointer in C?
+Demonstrates pointer declaration, address referencing, and dereferencing.
+
+Swap two numbers using pointers
+Uses void swap(int *x, int *y) to exchange values.
+
+Pointer to a pointer
+Example of int **pp and accessing value through double dereferencing.
+
+Output of pointer dereferencing
+Simple *p output and memory explanation.
+
+➤ Pointer with Functions and Arrays
+Pass pointer to a function
+Doubles the value of an integer via void doubleValue(int *n).
+
+Reverse array using pointers
+Reverses elements using two-pointer technique.
+
+Average using pointer
+Calculates average of array elements via pointer arithmetic.
+
+Malloc with pointers
+Demonstrates malloc() for dynamic array allocation and safe memory access.
+
+➤ Pointers with Strings
+Print string character by character using pointers
+Uses fgets() and char *ptr to traverse the string.
+
+Length of string using pointer (no array indexing)
+Calculates length by iterating with pointer only.
+
+Array of pointers to strings
+Stores and prints a list of names using char *names[].
