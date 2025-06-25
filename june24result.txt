@@ -1,0 +1,23 @@
+
+[1] Malloc - Enter number of elements: 4
+Enter elements: 2
+6
+7
+5
+Sum using malloc = 20
+
+[2] Calloc - Enter number of elements: 4
+Enter elements: 2
+6
+7
+5
+Sum using calloc = 20
+
+[3] Realloc - Enter initial size: 4
+Initial memory addresses: 0000000000681700      0000000000681704        0000000000681708        000000000068170c
+Enter new size: 2
+New memory addresses: 0000000000681700  0000000000681704
+
+[4] Dynamic Memory for String
+Name = Zara Ali
+Description = Zara Ali is a DPS student in class 10th.

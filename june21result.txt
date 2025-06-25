@@ -1,0 +1,46 @@
+
+-- Bank Customer Records --
+
+Account Number: 1001
+Account Type: Checking
+Account Holder First Name: John
+Account Holder Last Name: Paul
+Balance: 2100.50
+-----------------------------
+
+Account Number: 1002
+Account Type: Checking
+Account Holder First Name: Mary
+Account Holder Last Name: Paul
+Balance: 30100.50
+-----------------------------
+
+Account Number: 0
+Account Type: N/A
+Account Holder First Name: N/A
+Account Holder Last Name: N/A
+Balance: 0.00
+-----------------------------
+
+Account Number: 0
+Account Type: N/A
+Account Holder First Name: N/A
+Account Holder Last Name: N/A
+Balance: 0.00
+-----------------------------
+
+Account Number: 0
+Account Type: N/A
+Account Holder First Name: N/A
+Account Holder Last Name: N/A
+Balance: 0.00
+-----------------------------
+
+-- Student Details --
+ID: 9401
+Name: Joe
+Grade: A
+Address: 123 Main Street, New York - 10001
+
+Addition: 4.60 + 4.60i
+Subtraction: 0.00 + 0.00i

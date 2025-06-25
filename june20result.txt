@@ -1,0 +1,38 @@
+Enter a string: anoushka
+Length of the string: 8
+Copied string: anoushka
+
+Enter another string to copy: rufus
+Copied string: rufus
+
+--- Bank Customer Details ---
+
+Customer 1:
+Account Number: 1001
+Account Type: Checking
+Account Holder Name: John Paul
+Balance: 2100.50
+
+Customer 2:
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+
+Customer 3:
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+
+Customer 4:
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+
+Customer 5:
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00

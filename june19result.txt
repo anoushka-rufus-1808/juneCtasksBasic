@@ -1,0 +1,30 @@
+------ Find Max in Array ------
+Enter number of elements: 5
+Enter 5 elements:
+8
+5
+9
+0
+4
+Maximum number in the array: 9
+
+------ String Comparison ------
+Enter first string: anoushka
+Enter second string: rufus
+Strings are not equal. Difference = -17
+
+------ 3x3 Matrix Printing ------
+Enter 9 elements for 3x3 matrix:
+4
+5
+7
+2
+5
+9
+1
+0
+5
+Matrix elements:
+4 5 7
+2 5 9
+1 0 5
