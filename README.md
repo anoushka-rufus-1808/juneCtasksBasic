@@ -1,5 +1,6 @@
 📁 Basics and Operators
 ➤ Fundamentals
+
 Declare and print an integer variable
 
 Add two float numbers and print the result
@@ -19,6 +20,7 @@ Multiply two integers and display result
 Find the average of three float numbers
 
 ➤ Operators
+
 Demonstrate arithmetic operators: +, -, *, /, %
 
 Demonstrate relational operators: >, <, ==, !=, >=, <=
@@ -37,37 +39,56 @@ Display size of data types using sizeof
 
 📁 Pointers and Functions
 ➤ Pointer Basics and Use Cases
+
 What is a pointer in C?
-Demonstrates pointer declaration, address referencing, and dereferencing.
 
 Swap two numbers using pointers
-Uses void swap(int *x, int *y) to exchange values.
 
-Pointer to a pointer
-Example of int **pp and accessing value through double dereferencing.
+Pointer to a pointer (e.g., int **pp)
 
 Output of pointer dereferencing
-Simple *p output and memory explanation.
+
+Print a 3×3 matrix using pointer arithmetic (treat as a linear array)
+
+Find maximum in an array using pointer arithmetic
+
+String comparison using pointers (myStrcmp)
 
 ➤ Pointer with Functions and Arrays
-Pass pointer to a function
-Doubles the value of an integer via void doubleValue(int *n).
+
+Pass pointer to a function (e.g., modify variable by address)
 
 Reverse array using pointers
-Reverses elements using two-pointer technique.
 
-Average using pointer
-Calculates average of array elements via pointer arithmetic.
+Calculate average using pointer arithmetic
 
-Malloc with pointers
-Demonstrates malloc() for dynamic array allocation and safe memory access.
+Calculate string length using pointers (myStrlen)
 
-➤ Pointers with Strings
-Print string character by character using pointers
-Uses fgets() and char *ptr to traverse the string.
+Copy a string using pointer arithmetic (myStrcpy)
 
-Length of string using pointer (no array indexing)
-Calculates length by iterating with pointer only.
+➤ Dynamic Memory Allocation
 
-Array of pointers to strings
-Stores and prints a list of names using char *names[].
+Use of malloc() to sum elements of a dynamically allocated array
+
+Use of calloc() and comparison with malloc()
+
+Use of realloc() to resize a dynamic array and observe address changes
+
+Allocate and manage string memory dynamically using malloc()
+
+📁 Structures and User-Defined Types
+➤ Struct Applications
+
+Create and display student record using struct
+
+Extend student struct with nested address struct (address, city, zipcode)
+
+Create and print a list of bank customers using nested structs (customer_name, bank_customer)
+
+Handle bank customer records with string manipulation (strcpy)
+
+➤ Complex Numbers and Math Structures
+
+Define and operate on complex numbers using addcomp() and subcomp()
+
+Use structs to manage complex numbers as a data type
