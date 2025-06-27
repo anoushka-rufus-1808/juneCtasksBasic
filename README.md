@@ -54,6 +54,14 @@ Find maximum in an array using pointer arithmetic
 
 String comparison using pointers (myStrcmp)
 
+Pointer increment and address difference simulation
+
+Accessing array using pointer/offset notation
+
+Array of pointers to integers
+
+Convert decimal to Roman numeral using array of string pointers
+
 ➤ Pointer with Functions and Arrays
 
 Pass pointer to a function (e.g., modify variable by address)
@@ -66,8 +74,7 @@ Calculate string length using pointers (myStrlen)
 
 Copy a string using pointer arithmetic (myStrcpy)
 
-➤ Dynamic Memory Allocation
-
+📁 Dynamic Memory Allocation
 Use of malloc() to sum elements of a dynamically allocated array
 
 Use of calloc() and comparison with malloc()
@@ -75,6 +82,16 @@ Use of calloc() and comparison with malloc()
 Use of realloc() to resize a dynamic array and observe address changes
 
 Allocate and manage string memory dynamically using malloc()
+
+Reallocate string memory and append additional information
+
+Store student marks dynamically and display them
+
+Find all prime numbers up to a limit using dynamic memory and pointer arithmetic
+
+Find the largest element using dynamic memory
+
+Sum two 1D matrices using dynamic memory and pointer arithmetic
 
 📁 Structures and User-Defined Types
 ➤ Struct Applications
