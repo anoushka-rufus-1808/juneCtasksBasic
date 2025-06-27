@@ -1,0 +1,53 @@
+Value of var[0] = 10
+Value of var[1] = 100
+Value of var[2] = 200
+00000000005ffe44 1
+00000000005ffe48 2
+00000000005ffe4c 3
+Enter the decimal numbers in the range 1 to 100:
+8
+The equivalent roman is viii
+
+Enter number of students: 5
+
+Enter marks for each student:
+Student 1: 60
+Student 2: 90
+Student 3: 89
+Student 4: 67
+Student 5: 78
+
+Entered marks:
+Student 1: 60
+Student 2: 90
+Student 3: 89
+Student 4: 67
+Student 5: 78
+
+Prime numbers up to 50:
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 
+
+Enter number of elements: 4
+Enter elements: 2
+7
+6
+9
+Largest element: 9
+
+Enter number of elements in each array: 6
+Enter elements for array A:
+4
+7
+6
+9
+6
+5
+Enter elements for array B:
+6
+5
+6
+7
+3
+5
+Sum of arrays:
+10 12 12 16 9 10

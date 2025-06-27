@@ -1,0 +1,29 @@
+Name = Anoushka Rufus
+Description: Anoushka Rufus is a BIT, Durg student. She is in 3rd year.
+
+Integer pointer arithmetic:
+Address of pn: 00000000005ffdcc
+Address of pn1: 00000000005ffdd0
+
+Double pointer arithmetic:
+Address of pd: 00000000005ffdc0
+Address of pd1: 00000000005ffdc8
+
+Pointer increment simulation:
+Old value of ptr: 00000000000003e8
+New value of ptr: 00000000000003ec
+
+Pointer subtraction (float *):
+Difference: 250
+
+Array b printed with array subscript notation:
+b[0] = 10
+b[1] = 20
+b[2] = 30
+b[3] = 40
+
+Pointer/offset notation where pointer is array name:
+*(b + 0) = 10
+*(b + 1) = 20
+*(b + 2) = 30
+*(b + 3) = 40
