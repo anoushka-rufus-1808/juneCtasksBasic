@@ -109,3 +109,18 @@ Handle bank customer records with string manipulation (strcpy)
 Define and operate on complex numbers using addcomp() and subcomp()
 
 Use structs to manage complex numbers as a data type
+
+📁 File Handling and I/O
+➤ File Operations
+
+Create a file and write a message using fopen() and fprintf()
+
+Use fscanf() and fprintf() with stdin and stdout
+
+Display a custom message using stderr
+
+Read input using getchar() and print using putchar() (until EOF)
+
+Copy contents of one file to another using command-line arguments
+
+Check for file creation errors using fopen() and NULL checks
