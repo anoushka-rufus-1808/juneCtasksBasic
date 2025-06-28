@@ -1,0 +1,9 @@
+Give value of i: 5
+Value of i = 5
+No error: Just an example to show error message.
+
+Type text and press return to see it again
+For exiting press <CTRL + D> (Linux/Mac) or <CTRL + Z> (Windows)
+Hello World
+Hello World
+Command line file copy not executed. Usage: ./a.out <src_file> <dst_file>
