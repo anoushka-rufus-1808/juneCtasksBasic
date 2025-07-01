@@ -124,3 +124,5 @@ Read input using getchar() and print using putchar() (until EOF)
 Copy contents of one file to another using command-line arguments
 
 Check for file creation errors using fopen() and NULL checks
+
+Read a text file line by line using fgets() and print using printf()
